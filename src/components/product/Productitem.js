@@ -22,6 +22,8 @@ class Productitem extends Component{
     render(){
         return (
             <div>
+                hello
+                hello
                 <p> {this.props.productName} </p>
                 <p> {this.props.unitPrice}   </p>
             </div>
